@@ -5,10 +5,6 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
     <strong>I am open to internship opportunities in any interesting direction.</strong>
   </p>
-  <p>
-    <code>🌱 Born 2005-10-07</code>
-    <code>📍 Across China / Remote.</code>
-  </p>
 </div>
 
 - I’m grateful to live in an open-source world. I love VS Code. TvT
